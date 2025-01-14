@@ -2,6 +2,9 @@
 
 Paint.Me is an advanced AI-powered Twitter bot that employs sophisticated algorithms to analyze user profiles and generate highly personalized, abstract, painted profile pictures. By leveraging the latest in machine learning and natural language processing, Paint.Me transforms social media interactions into a unique artistic experience. Users can simply tag the bot in a tweet and say "paint me @paintdotme," and they'll receive a custom piece of art tailored to their digital persona.
 
+### Inspiration
+This project was inspired by my autistic nephew, whose unique perspective on the world has always amazed me. His ability to see beauty in abstract forms and colors motivated me to create a tool that could bring such perspectives to others, blending technology and art in a meaningful way.
+
 ## Features
 - **Intelligent Profile Analysis**: Utilizes advanced AI techniques to extract and interpret key details from Twitter profiles.
 - **Custom Artwork Generation**: Creates abstract, one-of-a-kind digital paintings that reflect the user's online presence.
@@ -66,7 +69,7 @@ We welcome contributions from the community! To get involved:
 Paint.Me is open-source software licensed under the MIT License. Please see the LICENSE file for more details.
 
 ## Social Media
-Follow us on Twitter for updates: [https://x.com/paintdotme](https://x.com/paintdotme)
+try the bot out here - [https://x.com/paintdotme](https://x.com/paintdotme)
 
 ---
 
