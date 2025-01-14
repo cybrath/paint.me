@@ -54,18 +54,6 @@ Activate the bot to start monitoring Twitter mentions and generating artwork:
 python bot.py
 ```
 
-## File Structure
-```
-paint.me/
-│
-├── bot.py                # Core bot logic and Twitter API integration
-├── image_generator.py    # AI-powered painting generation logic
-├── utils.py              # Auxiliary functions and data processing
-├── requirements.txt      # Python dependencies
-├── .env                  # Secure storage for API keys
-└── README.md             # Project documentation
-```
-
 ## Contributing
 We welcome contributions from the community! To get involved:
 1. Fork the repository.
