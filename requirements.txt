@@ -1,0 +1,5 @@
+tweepy>=4.12.1  # Advanced library for seamless Twitter API integration
+pillow>=9.3.0  # Sophisticated image processing capabilities
+python-dotenv>=1.0.0  # Secure management of environment variables
+logging  # Comprehensive logging framework for diagnostic and debugging insights
+requests>=2.28.0  # Versatile HTTP library for external API interactions and advanced requests handling
