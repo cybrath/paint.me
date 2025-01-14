@@ -73,4 +73,4 @@ try the bot out here - [https://x.com/paintdotme](https://x.com/paintdotme)
 
 ---
 
-Explore the intersection of art and AI with Paint.Me! 
+Explore the intersection of abstract art and AI with Paint.Me! 
